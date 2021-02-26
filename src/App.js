@@ -53,7 +53,7 @@ function App() {
     </div>
     <div className="footer-copyright text-center py-3">
         
-       Copyright &copy; stmeem <span role="img" aria-label="fork and knife">❤️</span>
+       Copyright &copy; stmeem <span role="img" aria-label="red-heart">❤️</span>
         
       </div>
     </div>
